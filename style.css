@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: wheat;
+}
+h1 {
+  font-size: 60px;
+  margin-left: 5%;
+  margin-top: 15%;
+  color: #6e260e;
+}
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: #6e260e;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%;
+}
+
+#hours{
+  display: block;
+  padding: 15px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px ;
+}
