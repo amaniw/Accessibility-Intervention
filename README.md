@@ -1,2 +1,2 @@
 # Accessibility-Intervention
-This is a quick and simple static HTML site with basic CSS designed to test screen readers used by CS students in order to learn empathetic design principles and standards. 
+This static HTML website, utilizing minimal CSS styling is designed for CS students to familiarize themselves with screen readers and develop an understanding of empathetic design principles and standards.
